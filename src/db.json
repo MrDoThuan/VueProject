@@ -1,0 +1,157 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Chocolate mocha machiato",
+      "image": "sp12.jpg",
+      "price": 33000,
+      "soluongton": 10,
+      "description": "Ngon ngọt vừa vị, khiến ta khi đã uống thì sẽ không dừng được",
+      "soluongmua": 2
+    },
+    {
+      "id": "2",
+      "name": "Caramel machiato",
+      "image": "sp11.jpg",
+      "price": 33000,
+      "soluongton": 6,
+      "description": "Caramel đi với Machiato, còn gì phải bàn",
+      "soluongmua": 3
+    },
+    {
+      "id": "3",
+      "name": "Cà phê",
+      "image": "sp10.jpg",
+      "price": 25000,
+      "soluongton": 20,
+      "description": "Cà Phê Mía Ơi pha theo công thức độc quyền đem lại hương vị không thể nào quên",
+      "soluongmua": 4
+    },
+    {
+      "id": "4",
+      "name": "Cappuccino / Latte",
+      "image": "sp9.jpg",
+      "price": 33000,
+      "soluongton": 5,
+      "description": "Ngon, Béo, Xịn là 3 từ để diễn tả cảm xúc khi sử dụng",
+      "soluongmua": 1
+    },
+    {
+      "id": "6",
+      "name": "Mía lá dứa",
+      "image": "sp1.jpg",
+      "price": 33000,
+      "soluongton": 10,
+      "description": "Sự ngọt lịm của mía kết hợp với lá dứa tạo ra hương thơm khó quên",
+      "soluongmua": 2
+    },
+    {
+      "id": "7",
+      "name": "Mía Quýt",
+      "image": "sp2.jpg",
+      "price": 33000,
+      "soluongton": 10,
+      "description": "Vị chua nhẹ của Quýt cùng với Mía tạo ra một bản hòa ca hoàn hảo",
+      "soluongmua": 3
+    },
+    {
+      "id": "8",
+      "name": "Mía dâu",
+      "image": "sp3.jpg",
+      "price": 33000,
+      "soluongton": 12,
+      "description": "MÍa Dâu là sự kết hợp vừa lạ vừa độc đáo",
+      "soluongmua": 5
+    },
+    {
+      "id": "9",
+      "name": "Mía chanh dây",
+      "image": "sp4.jpg",
+      "price": 33000,
+      "soluongton": 16,
+      "description": "Chanh dây chua nhẹ cùng với Mía tạo ra một hương vị đậm chất Mía Ơi",
+      "soluongmua": 6
+    },
+    {
+      "id": "10",
+      "name": "Mía ô long",
+      "image": "sp5.jpg",
+      "price": 33000,
+      "soluongton": 8,
+      "description": "Vị Ô long thanh mát cùng với Mía cho ta cảm giác thoải mái khi uống",
+      "soluongmua": 2
+    },
+    {
+      "id": "11",
+      "name": " Mía hisbicus",
+      "image": "sp6.jpg",
+      "price": 33000,
+      "soluongton": 6,
+      "description": "Hisbicus, vừa lạ vừa quen",
+      "soluongmua": 1
+    },
+    {
+      "id": "12",
+      "name": "Mía xí muội đỏ",
+      "image": "sp7.jpg",
+      "price": 33000,
+      "soluongton": 2,
+      "description": "Vị xí muội chua mặn cùng với vị ngọt của Mía tái hiện lại thức uống từ xa xưa",
+      "soluongmua": 0
+    },
+    {
+      "id": "13",
+      "name": "Mía cà phê",
+      "image": "sp8.jpg",
+      "price": 33000,
+      "soluongton": 3,
+      "description": "Mía cà phê!!!, không dành cho dân bụng yếu :))",
+      "soluongmua": 1
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "khiem123",
+      "password": "123",
+      "result": false
+    },
+    {
+      "id": "958c",
+      "name": "HuuThuan",
+      "password": "123"
+    },
+    {
+      "id": "2534",
+      "name": "",
+      "password": ""
+    },
+    {
+      "id": "bd5e",
+      "name": "Tien",
+      "password": "123456"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "adminname": "DoThuan",
+      "password": "123"
+    },
+    {
+      "id": "9900",
+      "adminname": "HuuThuan",
+      "password": "thuan2004"
+    },
+    {
+      "id": "bdbb",
+      "adminname": "TRED",
+      "password": "huuthuan"
+    },
+    {
+      "id": "e1e9",
+      "adminname": "Son",
+      "password": "1234"
+    }
+  ]
+}
